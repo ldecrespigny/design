@@ -7,6 +7,7 @@ get "list2" => "pages#list2"
 get "list3" => "pages#list3"
 get "list4" => "pages#list4"
 get "contact" => "pages#contact"
+get "coming_soon" => "pages#coming_soon"
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

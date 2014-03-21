@@ -15,6 +15,10 @@ $jumbotron-bg:              white;
 	background-color: 		#bdc3c7
 }
 
+.titlebox-white {
+	background-color: 		white
+}
+
 .center {
     text-align: center;
     margin: 0 auto;
@@ -28,6 +32,14 @@ $jumbotron-bg:              white;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+
+.content-section-b {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: 		white
 }
 
 body {
