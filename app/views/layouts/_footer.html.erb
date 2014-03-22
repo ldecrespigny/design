@@ -17,7 +17,7 @@
 * as the event label.
 */
 var trackOutboundLink = function(url) {
-   ga('send', 'affiliates', 'external', 'click', url, {'hitCallback':
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
      function () {
      document.location = url;
      }
