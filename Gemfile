@@ -9,7 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
-
+gem 'aws-sdk', '~> 1.20.0'
 
 group :doc do
   gem 'sdoc', require: false
